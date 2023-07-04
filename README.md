@@ -12,10 +12,10 @@ Welcome to TinDog!
    -> Elite Clientele: The app claims to have a diverse and exclusive community of dogs.
    -> Guaranteed to work: The app guarantees to help users find love for their dogs or offers a money-back guarantee.
 
-3. Testimonial Section: This section includes a testimonial from a satisfied user of the TinDog app. It is designed as a quote box with a background color and features a humorous quote about finding love without having to sniff other dogs.
+4. Testimonial Section: This section includes a testimonial from a satisfied user of the TinDog app. It is designed as a quote box with a background color and features a humorous quote about finding love without having to sniff other dogs.
 
-4. Pricing Section: This section displays different pricing plans for the service, tailored to meet the needs of different dog owners.
-   -> In this section, there is a container element that holds the pricing information. It begins with a pricing header containing a title and a description. Below that, there is a row with three columns, each representing a different pricing plan.
-   -> The pricing plan cards are designed using Bootstrap classes. Each card represents a specific plan, such as "Chihuahua," "Labrador," and "Mastiff." The card header contains the name of the plan, and the card body displays the price and features of the plan.
+5. Pricing Section: This section displays different pricing plans for the service, tailored to meet the needs of different dog owners.
+   a. In this section, there is a container element that holds the pricing information. It begins with a pricing header containing a title and a description. Below that, there is a row with three columns, each representing a different pricing plan.
+   b. The pricing plan cards are designed using Bootstrap classes. Each card represents a specific plan, such as "Chihuahua," "Labrador," and "Mastiff." The card header contains the name of the plan, and the card body displays the price and features of the plan.
 
-5. Footer Section: Depicts the end of website.
+7. Footer Section: Depicts the end of website.
